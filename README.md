@@ -1,2 +1,2 @@
 # SAMS
-Student Attendance Management System(Django)
+Student Attendance Management System (Django)
